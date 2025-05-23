@@ -301,6 +301,7 @@ margin-bottom: -20px;
 }
 .box2-midhr{
     width: 450px;
+    border: 0.2px solid gray;
 }
 .box-2nd-div-2-text-and-img{
     display: flex;
